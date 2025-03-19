@@ -30,6 +30,7 @@ on:
           - fmx1-pro
           - king3399
           - sw799
+          - sv-33a6x
           - tn3399
           - tpm312
           - tvi3315a
@@ -52,12 +53,12 @@ on:
           - 6.1.y
           - 6.1.75
           - 6.1.100
-          - 6.1.129
+          - 6.1.130
           - 6.6.y
           - 6.6.46
-          - 6.6.79
+          - 6.6.82
           - 6.1.y_6.6.y
-          - 6.12.16
+          - 6.12.18
       auto_kernel:
         description: "Auto use the latest kernel"
         required: false
