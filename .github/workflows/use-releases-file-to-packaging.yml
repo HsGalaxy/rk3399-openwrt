@@ -157,6 +157,7 @@ on:
           - xiaobao_fine3399
           - zcube1-max
           - zysj
+          - yskj
       openwrt_kernel:
         description: "Select kernel version"
         required: false
